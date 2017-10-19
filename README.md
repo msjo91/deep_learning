@@ -9,7 +9,7 @@ Open shell
 
 ```
 import matplotlib
-print matplotlib.matplotlib_fname()
+print(matplotlib.matplotlib_fname())
 ```
 Close shell  
 vi path/to/matplotlibrc
