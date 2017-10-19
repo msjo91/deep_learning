@@ -4,6 +4,8 @@ Use python to exercise basic machine learning techniques
 Python 3.6.3
 ### Packages
 Listed in requirements.txt
+#### Data sources
+http://www.cs.toronto.edu/~kriz/cifar.html
 #### Using matplotlib in pyenv environment
 Open shell
 
