@@ -5,6 +5,8 @@ Python 3.6.3
 ### Packages
 Listed in requirements.txt
 #### Data sources
+> image classifcation
+
 http://www.cs.toronto.edu/~kriz/cifar.html
 #### Using matplotlib in pyenv environment
 Open shell
