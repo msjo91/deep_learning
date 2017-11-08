@@ -32,10 +32,10 @@ RF의 특성상 전처리가 필요없었다. 그래도 속성을 일부 제거�
 
 Confusion matrix는:
 
-- | Predicted P | Predicted N
+CM | Predicted P | Predicted N
 --- | --------- | -----------
-Actual P | 9897 | 3
-Actual N | 21 | 79
+**Actual P** | 9897 | 3
+**Actual N** | 21 | 79
 
 Accuracy는 0.9976이고, F1-score는 0.8681이다.
 
