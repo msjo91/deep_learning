@@ -36,6 +36,7 @@ Confusion matrix는:
  --- | ----------- | -----------
  Actual P | 9897 | 3
  Actual N | 21 | 79
+
 Accuracy는 0.9976이고, F1-score는 0.8681이다.
 
 Test set를 모델에 넣어 prediction을 불러오고 result.csv에 있는 결과와 비교해봤을 때, 10000개의 record 중 결과가 다른 것은 16개뿐으로 이하 레코드가 test set의 실제 결과와 prediction이 다른 경우이다.
