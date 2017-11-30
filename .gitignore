@@ -5,7 +5,6 @@ deep_learning_env
 __dev*/
 *data/
 cifar*/
-*.pdf
 
 # Created by https://www.gitignore.io/api/git,venv,data,text,linux,macos,python,windows,pycharm,database,virtualenv,sublimetext,jupyternotebook
 
