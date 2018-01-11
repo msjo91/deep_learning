@@ -1,11 +1,10 @@
 ### Project Custom ###
-deep_learning_env
+DL
 .idea/
 .conf/
 __dev*/
 *data/
 cifar*/
-*.pdf
 
 # Created by https://www.gitignore.io/api/git,venv,data,text,linux,macos,python,windows,pycharm,database,virtualenv,sublimetext,jupyternotebook
 
